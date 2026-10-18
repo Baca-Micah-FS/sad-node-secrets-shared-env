@@ -1,0 +1,13 @@
+{
+  "name": "sad-shared-secret",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Classroom demonstration of an intentionally committed dotenv secret",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
